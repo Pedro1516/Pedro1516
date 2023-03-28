@@ -2,6 +2,8 @@
 
 - 🌱 Atualmente estou estudando C
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro1516&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&hide=issues)](https://github.com/pedro1516/)
+
 <div style="display: inline_block"><br>
   <img align="center" alt= "Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
